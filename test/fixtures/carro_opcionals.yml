@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  carro_id: 
+  opcional_id: 
+
+two:
+  carro_id: 
+  opcional_id: 
